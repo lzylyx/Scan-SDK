@@ -9,7 +9,7 @@ Intelligence scan result：
 
 
 Intelligence edge detection result：
-<video src="https://github.com/lzylyx/Scan-SDK/blob/master/video/AI_edge_detection.mp4" controls="controls" width="300" height="500">您的浏览器不支持播放该视频！</video>
+[![Watch the video](https://github.com/lzylyx/Scan-SDK/blob/master/video/AI_edge_detection.png)](https://github.com/lzylyx/Scan-SDK/blob/master/video/AI_edge_detection.mp4)
 
 contact：
 
