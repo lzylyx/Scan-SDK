@@ -9,7 +9,7 @@ Intelligence scan result£º
 
 
 Intelligence edge detection result£º
-[![Watch the video](https://github.com/lzylyx/Scan-SDK/blob/master/video/AI_edge_detection.png)](https://github.com/lzylyx/Scan-SDK/blob/master/video/AI_edge_detection.mp4)
+[![Watch the video](https://github.com/lzylyx/Scan-SDK/blob/master/video/AI_edge_detection_fig.png)](https://github.com/lzylyx/Scan-SDK/blob/master/video/AI_edge_detection.mp4)
 
 contact£º
 
