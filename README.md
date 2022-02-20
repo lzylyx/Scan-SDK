@@ -8,7 +8,7 @@ Intelligence scan result£º
 ![image](https://github.com/lzylyx/Scan-SDK/blob/master/figs/scan_result.png)<br />
 
 
-Intelligence edge detection result£º<br/>
+Intelligence edge detection result£º
 <p float="left">
 [![Watch the video](https://github.com/lzylyx/Scan-SDK/blob/master/video/AI_edge_detection_fig.png)](https://github.com/lzylyx/Scan-SDK/blob/master/video/AI_edge_detection.mp4)
 </p>
